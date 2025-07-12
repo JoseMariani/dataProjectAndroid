@@ -1,0 +1,49 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "Tienda Virtual Venezuela",
+      "url": "https://tiendavirtualvenezuela.com",
+      "banner": "https://raw.githubusercontent.com/JoseMariani/dataProjectAndroid/main/clients/ads/banner1.jpg",
+      "created": "2025-05-15",
+      "expiration": "2025-08-15",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Delivery Express Caracas",
+      "url": "https://deliveryexpresscaracas.com",
+      "banner": "https://raw.githubusercontent.com/JoseMariani/dataProjectAndroid/main/clients/ads/banner2.jpg",
+      "created": "2025-06-01",
+      "expiration": "2025-09-01",
+      "status": "active"
+    },
+    {
+      "id": "3",
+      "name": "Inversiones Futuro",
+      "url": "https://inversionesfuturo.ve",
+      "banner": "https://raw.githubusercontent.com/JoseMariani/dataProjectAndroid/main/clients/ads/banner3.jpg",
+      "created": "2025-06-20",
+      "expiration": "2025-09-20",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "Tecnología Digital",
+      "url": "https://tecnologiadigital.com.ve",
+      "banner": "https://raw.githubusercontent.com/JoseMariani/dataProjectAndroid/main/clients/ads/banner4.jpg",
+      "created": "2025-05-10",
+      "expiration": "2025-08-10",
+      "status": "inactive"
+    },
+    {
+      "id": "5",
+      "name": "Importaciones Caribe",
+      "url": "https://importacionescaribe.com",
+      "banner": "https://raw.githubusercontent.com/JoseMariani/dataProjectAndroid/main/clients/ads/banner5.jpg",
+      "created": "2025-07-01",
+      "expiration": "2025-10-01",
+      "status": "active"
+    }
+  ]
+}

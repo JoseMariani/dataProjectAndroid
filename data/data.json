@@ -1,0 +1,66 @@
+{
+  "anunciarme": {
+    "precio": 50,
+    "descripcion": "¿Quieres que tu negocio o servicio llegue a miles de venezolanos dentro y fuera del país? CuantoaBcv te ofrece un espacio publicitario efectivo y asequible.",
+    "ciclo": "Tarifa Mensual",
+    "descripcion_secundaria": "Incluye un banner publicitario en la parte inferior de la aplicación, visible en todas las pantallas.",
+    "whatsapp": "584141234567",
+    "beneficios": [
+      {
+        "title": "Audiencia específica",
+        "description": "Llegamos a todos los ciudadanos que diariamente consultan la tasa oficial y la utilizanpara sus negocios como referencia."
+      },
+      {
+        "title": "Visibilidad constante",
+        "description": "Tu anuncio aparecerá en una aplicación consultada varias veces al día."
+      },
+      {
+        "title": "Precio accesible",
+        "description": "Tarifa plana mensual, sin costos ocultos."
+      }
+    ]
+  },
+  "anuncio_web": {
+    "precio": 50,
+    "descripcion": "Nuestro directorio de webs de noticias venezolanas recibe miles de visitas diarias de personas interesadas en mantenerse informadas sobre la actualidad del país.",
+    "ciclo": "Plan Anual",
+    "descripcion_secundaria": "Anuncio destacado en la sección de Webs de Noticias durante 30 días.",
+    "whatsapp": "584245914455",
+    "beneficios": [
+      {
+        "title": "Exposición a miles de usuarios diarios",
+        "description": "Tu anuncio será visto por todos los usuarios que consultan nuestro directorio de noticias."
+      },
+      {
+        "title": "Posicionamiento destacado",
+        "description": "Tu anuncio aparecerá en una posición privilegiada dentro de la sección de noticias."
+      },
+      {
+        "title": "Enlace directo",
+        "description": "Los usuarios podrán acceder directamente a tu sitio web o redes sociales."
+      },
+      {
+        "title": "Diseño personalizado",
+        "description": "Trabajaremos contigo para crear un anuncio atractivo y efectivo."
+      },
+      {
+        "title": "Métricas de rendimiento",
+        "description": "Recibirás informes mensuales sobre el rendimiento de tu anuncio."
+      }
+    ]
+  },
+  "por_que": {
+    "titulo": "¿Por qué lo hacemos?",
+    "descripcion": "ABCV nació con el objetivo de proporcionar información confiable y actualizada sobre la tasa de cambio del Bolívar frente al Dólar, ayudando a venezolanos a tomar decisiones financieras informadas.",
+    "secciones": [
+      {
+        "titulo": "Nuestra misión",
+        "descripcion": "Brindar acceso fácil y rápido a la tasa de cambio oficial del pais."
+      },
+      {
+        "titulo": "Compromiso con la transparencia",
+        "descripcion": "Los datos son tomados de informacion publicada por la pagina oficial del Banco Central de Venezuela https://www.bcv.org.ve/."
+      }
+    ]
+  }
+}
