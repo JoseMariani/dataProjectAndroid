@@ -21,31 +21,24 @@
     ]
   },
   "anuncio_web": {
-    "precio": 50,
+    "titulo": "Registra tu sitio web",
     "descripcion": "Nuestro directorio de webs de noticias venezolanas recibe miles de visitas diarias de personas interesadas en mantenerse informadas sobre la actualidad del país.",
+    "precio": 50,
     "ciclo": "Plan Anual",
-    "descripcion_secundaria": "Anuncio destacado en la sección de Webs de Noticias durante 30 días.",
+    "descripcion_secundaria": "Anuncio destacado en la sección de Webs de Noticias durante 1 año.",
     "whatsapp": "584245914455",
     "beneficios": [
       {
-        "title": "Exposición a miles de usuarios diarios",
-        "description": "Tu anuncio será visto por todos los usuarios que consultan nuestro directorio de noticias."
+        "title": "Visibilidad",
+        "description": "Tu sitio web será visto por todos los usuarios que consultan nuestro directorio de noticias."
       },
       {
-        "title": "Posicionamiento destacado",
-        "description": "Tu anuncio aparecerá en una posición privilegiada dentro de la sección de noticias."
+        "title": "Posicionamiento privilegiado",
+        "description": "Tu sitio web aparecerá en una posición privilegiada dentro de la sección de noticias."
       },
       {
-        "title": "Enlace directo",
+        "title": "Acceso directo",
         "description": "Los usuarios podrán acceder directamente a tu sitio web o redes sociales."
-      },
-      {
-        "title": "Diseño personalizado",
-        "description": "Trabajaremos contigo para crear un anuncio atractivo y efectivo."
-      },
-      {
-        "title": "Métricas de rendimiento",
-        "description": "Recibirás informes mensuales sobre el rendimiento de tu anuncio."
       }
     ]
   },
