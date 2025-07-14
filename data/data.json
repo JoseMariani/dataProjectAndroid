@@ -1,6 +1,6 @@
 {
   "anunciarme": {
-    "precio": 50,
+    "precio": 20,
     "descripcion": "Quieres que tu negocio o servicio llegue a miles de venezolanos dentro y fuera del país? CuantoaBcv te ofrece un espacio publicitario efectivo y asequible.",
     "ciclo": "Tarifa Mensual",
     "descripcion_secundaria": "Incluye un banner publicitario en la parte inferior de la aplicación, visible en todas las pantallas.",
@@ -17,28 +17,6 @@
       {
         "title": "Precio accesible",
         "description": "Tarifa plana mensual, sin costos ocultos."
-      }
-    ]
-  },
-  "anuncio_web": {
-    "titulo": "Registra tu sitio web",
-    "descripcion": "Nuestro directorio de webs de noticias venezolanas recibe miles de visitas diarias de personas interesadas en mantenerse informadas sobre la actualidad del país.",
-    "precio": 20,
-    "ciclo": "Tarifa Mensual",
-    "descripcion_secundaria": "Incluye un banner publicitario en la parte inferior de la aplicación, visible en Webs de Noticias durante 1 mes.",
-    "whatsapp": "584245914455",
-    "beneficios": [
-      {
-        "title": "Visibilidad",
-        "description": "Tu sitio web será visto por todos los usuarios que consultan nuestro directorio de noticias, aumentando la posibilidad de que se visiten tu sitio web y convertirlos en clientes."
-      },
-      {
-        "title": "Posicionamiento privilegiado",
-        "description": "Tu sitio web aparecerá en una posición privilegiada dentro de la sección de Webs de Noticias, si de un sitio de noticias se tratase entonces apareceria en la lista de webs de noticias."
-      },
-      {
-        "title": "Acceso directo",
-        "description": "Los usuarios podrán acceder directamente a tu sitio web o redes sociales lo que decidas promocionar."
       }
     ]
   },
